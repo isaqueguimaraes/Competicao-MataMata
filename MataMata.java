@@ -26,7 +26,6 @@ public class Avaliativa {
     System.out.println("\nO vencedor do jogo 1 foi: " + vencedorJogo1);
 
     // Jogo 2 - C vs D
-    // Jogo 2 - C vs D
     System.out.println("\nJogo 2 - C vs D");
     System.out.print("\nDigite quantos gols o time " + times[2] + " fez: ");
     int golsC = leitura.nextInt();
