@@ -1,5 +1,5 @@
-# Mata Mata
-### Simulação de uma competição no formato de Mata Mata
+# Mata Mata ⚽️🏀🏐🏒
+### Simulação de uma competição no formato de Mata Mata 💻🏆
 
 Várias competições esportivas de modalidades diferentes como futebol, basquete, vôlei e hóquei utilizam o sistema de mata-mata para decidir seu campeão. Esta é uma simulação de uma competição em que dezesseis equipes disputam um campeonato, composto de 15 jogos eliminatórios, sendo eles Oitavas de final, Quartas de final, Semifinais e a Final.<br>
 
